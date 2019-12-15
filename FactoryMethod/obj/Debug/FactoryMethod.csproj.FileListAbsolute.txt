@@ -1,0 +1,7 @@
+E:\2-й курс\С#-практика\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+E:\2-й курс\С#-практика\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+E:\2-й курс\С#-практика\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+E:\2-й курс\С#-практика\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+E:\2-й курс\С#-практика\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+E:\2-й курс\С#-практика\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+E:\2-й курс\С#-практика\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
